@@ -1,0 +1,751 @@
+ORDERNUMBER,PRODUCTLINE,QUANTITYORDERED,UNITPRICE,SALES,ORDERDATE
+200001,Candle Making Supplies,27,51.74,1396.98,2025-12-23
+200002,Miniature Painting Kits,27,136.03,3672.81,2025-03-14
+200003,Woodworking Blanks,1,173.66,173.66,2025-08-11
+200004,Miniature Painting Kits,42,25.63,1076.46,2025-09-01
+200005,Bookbinding Materials,2,174.79,349.58,2025-10-11
+200006,Handmade Calligraphy Sets,36,124.49,4481.64,2025-01-30
+200007,Model Railway Parts,36,76.63,2758.68,2025-06-18
+200008,Miniature Painting Kits,3,97.02,291.06,2025-10-03
+200009,Candle Making Supplies,25,70.49,1762.25,2025-10-20
+200010,Botanical Art Tools,8,86.86,694.88,2025-08-23
+200011,Botanical Art Tools,15,93.12,1396.8,2025-01-17
+200012,Bookbinding Materials,22,129.44,2847.68,2025-05-26
+200013,Woodworking Blanks,32,167.49,5359.68,2025-11-22
+200014,Candle Making Supplies,25,25.93,648.25,2025-02-21
+200015,Woodworking Blanks,11,167.75,1845.25,2025-11-26
+200016,Miniature Painting Kits,34,32.52,1105.68,2025-01-20
+200017,Miniature Painting Kits,6,87.58,525.48,2025-10-13
+200018,Miniature Painting Kits,45,136.62,6147.9,2025-01-03
+200019,Analog Photography Gear,35,28.16,985.6,2025-08-22
+200020,Candle Making Supplies,37,21.92,811.04,2025-12-18
+200021,Woodworking Blanks,36,120.74,4346.64,2025-01-01
+200022,Analog Photography Gear,45,50.59,2276.55,2025-05-21
+200023,Candle Making Supplies,17,86.2,1465.4,2025-11-07
+200024,Bookbinding Materials,21,169.92,3568.32,2025-05-25
+200025,Model Railway Parts,42,49.2,2066.4,2025-11-14
+200026,Miniature Painting Kits,2,148.71,297.42,2025-03-21
+200027,Ceramic Glazing Supplies,13,166.76,2167.88,2025-05-16
+200028,Botanical Art Tools,28,8.19,229.32,2025-06-30
+200029,Woodworking Blanks,1,104.17,104.17,2025-04-22
+200030,Analog Photography Gear,42,112.77,4736.34,2025-07-02
+200031,Miniature Painting Kits,6,146.2,877.2,2025-05-14
+200032,Candle Making Supplies,24,122.93,2950.32,2025-10-31
+200033,Woodworking Blanks,34,56.02,1904.68,2025-09-12
+200034,Leathercraft Accessories,29,177.47,5146.63,2025-11-07
+200035,Botanical Art Tools,33,41.45,1367.85,2025-07-13
+200036,Handmade Calligraphy Sets,14,114.07,1596.98,2025-05-06
+200037,Analog Photography Gear,24,179.75,4314.0,2025-12-20
+200038,Analog Photography Gear,21,61.53,1292.13,2025-06-06
+200039,Handmade Calligraphy Sets,37,28.22,1044.14,2025-10-11
+200040,Analog Photography Gear,41,92.87,3807.67,2025-09-25
+200041,Botanical Art Tools,38,160.81,6110.78,2025-06-07
+200042,Bookbinding Materials,9,31.84,286.56,2025-06-02
+200043,Miniature Painting Kits,15,111.46,1671.9,2025-06-17
+200044,Model Railway Parts,36,151.77,5463.72,2025-11-17
+200045,Handmade Calligraphy Sets,29,159.09,4613.61,2025-02-02
+200046,Bookbinding Materials,17,100.71,1712.07,2025-11-12
+200047,Botanical Art Tools,34,81.54,2772.36,2025-11-13
+200048,Ceramic Glazing Supplies,14,60.1,841.4,2025-04-12
+200049,Candle Making Supplies,41,77.22,3166.02,2025-12-22
+200050,Botanical Art Tools,29,47.11,1366.19,2025-11-09
+200051,Botanical Art Tools,23,72.23,1661.29,2025-08-10
+200052,Analog Photography Gear,5,17.25,86.25,2025-06-04
+200053,Woodworking Blanks,6,120.91,725.46,2025-07-15
+200054,Botanical Art Tools,8,179.87,1438.96,2025-09-01
+200055,Model Railway Parts,44,175.48,7721.12,2025-12-09
+200056,Leathercraft Accessories,21,98.01,2058.21,2025-12-31
+200057,Miniature Painting Kits,8,132.91,1063.28,2025-06-26
+200058,Botanical Art Tools,10,17.27,172.7,2025-08-22
+200059,Handmade Calligraphy Sets,14,155.72,2180.08,2025-09-23
+200060,Handmade Calligraphy Sets,40,152.09,6083.6,2025-06-20
+200061,Bookbinding Materials,19,155.86,2961.34,2025-11-27
+200062,Model Railway Parts,18,32.5,585.0,2025-07-12
+200063,Bookbinding Materials,39,56.45,2201.55,2025-12-06
+200064,Candle Making Supplies,27,79.66,2150.82,2025-01-23
+200065,Woodworking Blanks,12,58.38,700.56,2025-07-04
+200066,Miniature Painting Kits,15,52.2,783.0,2025-01-24
+200067,Handmade Calligraphy Sets,43,162.15,6972.45,2025-07-02
+200068,Botanical Art Tools,16,4.51,72.16,2025-07-20
+200069,Analog Photography Gear,10,177.4,1774.0,2025-11-09
+200070,Woodworking Blanks,26,175.66,4567.16,2025-03-06
+200071,Botanical Art Tools,6,85.98,515.88,2025-01-30
+200072,Model Railway Parts,12,38.61,463.32,2025-10-16
+200073,Analog Photography Gear,17,124.84,2122.28,2025-02-17
+200074,Model Railway Parts,20,98.06,1961.2,2025-10-09
+200075,Ceramic Glazing Supplies,30,73.39,2201.7,2025-03-15
+200076,Analog Photography Gear,5,139.83,699.15,2025-07-22
+200077,Handmade Calligraphy Sets,11,55.34,608.74,2025-12-02
+200078,Miniature Painting Kits,38,76.44,2904.72,2025-04-28
+200079,Woodworking Blanks,4,151.48,605.92,2025-04-21
+200080,Model Railway Parts,11,174.74,1922.14,2025-05-27
+200081,Bookbinding Materials,5,12.14,60.7,2025-09-23
+200082,Leathercraft Accessories,4,69.75,279.0,2025-12-01
+200083,Ceramic Glazing Supplies,25,53.5,1337.5,2025-09-16
+200084,Model Railway Parts,25,35.81,895.25,2025-02-21
+200085,Bookbinding Materials,1,129.37,129.37,2025-01-17
+200086,Ceramic Glazing Supplies,13,172.79,2246.27,2025-08-24
+200087,Model Railway Parts,39,18.73,730.47,2025-10-17
+200088,Botanical Art Tools,16,88.7,1419.2,2025-05-07
+200089,Bookbinding Materials,44,177.77,7821.88,2025-07-19
+200090,Candle Making Supplies,26,128.97,3353.22,2025-07-11
+200091,Analog Photography Gear,19,110.76,2104.44,2025-07-06
+200092,Model Railway Parts,31,143.46,4447.26,2025-11-02
+200093,Ceramic Glazing Supplies,42,26.39,1108.38,2025-11-26
+200094,Analog Photography Gear,4,78.19,312.76,2025-03-28
+200095,Candle Making Supplies,42,97.5,4095.0,2025-12-29
+200096,Model Railway Parts,3,166.53,499.59,2025-04-28
+200097,Bookbinding Materials,28,163.1,4566.8,2025-02-18
+200098,Miniature Painting Kits,42,133.21,5594.82,2025-06-04
+200099,Handmade Calligraphy Sets,45,115.26,5186.7,2025-12-09
+200100,Botanical Art Tools,9,172.88,1555.92,2025-08-12
+200101,Handmade Calligraphy Sets,22,134.11,2950.42,2025-08-21
+200102,Leathercraft Accessories,15,13.07,196.05,2025-04-07
+200103,Ceramic Glazing Supplies,30,177.12,5313.6,2025-06-07
+200104,Ceramic Glazing Supplies,42,141.87,5958.54,2025-09-24
+200105,Miniature Painting Kits,25,148.13,3703.25,2025-07-11
+200106,Miniature Painting Kits,14,170.36,2385.04,2025-01-29
+200107,Candle Making Supplies,17,142.1,2415.7,2025-07-16
+200108,Candle Making Supplies,44,63.8,2807.2,2025-10-07
+200109,Handmade Calligraphy Sets,2,40.59,81.18,2025-06-30
+200110,Candle Making Supplies,28,158.51,4438.28,2025-10-02
+200111,Ceramic Glazing Supplies,35,112.9,3951.5,2025-02-08
+200112,Model Railway Parts,7,63.19,442.33,2025-06-16
+200113,Candle Making Supplies,25,107.65,2691.25,2025-01-19
+200114,Model Railway Parts,4,20.32,81.28,2025-01-09
+200115,Woodworking Blanks,40,165.83,6633.2,2025-10-27
+200116,Miniature Painting Kits,4,148.08,592.32,2025-06-09
+200117,Miniature Painting Kits,17,112.49,1912.33,2025-08-23
+200118,Bookbinding Materials,5,49.37,246.85,2025-12-06
+200119,Candle Making Supplies,21,95.82,2012.22,2025-12-11
+200120,Analog Photography Gear,11,17.83,196.13,2025-07-02
+200121,Candle Making Supplies,9,105.02,945.18,2025-10-07
+200122,Miniature Painting Kits,19,56.49,1073.31,2025-04-10
+200123,Woodworking Blanks,41,10.64,436.24,2025-08-29
+200124,Handmade Calligraphy Sets,42,81.25,3412.5,2025-01-01
+200125,Ceramic Glazing Supplies,29,13.98,405.42,2025-07-15
+200126,Bookbinding Materials,22,98.01,2156.22,2025-05-04
+200127,Handmade Calligraphy Sets,44,133.0,5852.0,2025-05-26
+200128,Bookbinding Materials,3,123.59,370.77,2025-07-04
+200129,Bookbinding Materials,5,172.03,860.15,2025-03-24
+200130,Woodworking Blanks,26,35.99,935.74,2025-07-29
+200131,Model Railway Parts,15,58.65,879.75,2025-08-28
+200132,Woodworking Blanks,11,52.76,580.36,2025-12-26
+200133,Candle Making Supplies,7,140.81,985.67,2025-10-30
+200134,Botanical Art Tools,20,39.51,790.2,2025-10-09
+200135,Model Railway Parts,38,172.4,6551.2,2025-08-08
+200136,Handmade Calligraphy Sets,30,91.33,2739.9,2025-07-27
+200137,Analog Photography Gear,10,136.37,1363.7,2025-04-17
+200138,Leathercraft Accessories,41,106.77,4377.57,2025-10-04
+200139,Miniature Painting Kits,37,36.87,1364.19,2025-05-24
+200140,Woodworking Blanks,20,110.31,2206.2,2025-06-18
+200141,Model Railway Parts,24,27.49,659.76,2025-11-18
+200142,Miniature Painting Kits,28,93.91,2629.48,2025-05-06
+200143,Botanical Art Tools,44,86.71,3815.24,2025-02-20
+200144,Model Railway Parts,28,109.37,3062.36,2025-12-28
+200145,Candle Making Supplies,28,157.86,4420.08,2025-08-23
+200146,Handmade Calligraphy Sets,43,77.43,3329.49,2025-11-23
+200147,Model Railway Parts,2,139.13,278.26,2025-05-01
+200148,Handmade Calligraphy Sets,28,92.07,2577.96,2025-11-13
+200149,Leathercraft Accessories,35,67.73,2370.55,2025-05-20
+200150,Leathercraft Accessories,21,125.31,2631.51,2025-11-25
+200151,Ceramic Glazing Supplies,27,126.67,3420.09,2025-11-11
+200152,Woodworking Blanks,21,142.79,2998.59,2025-07-17
+200153,Candle Making Supplies,45,100.46,4520.7,2025-10-16
+200154,Leathercraft Accessories,22,40.32,887.04,2025-03-26
+200155,Handmade Calligraphy Sets,43,37.44,1609.92,2025-07-21
+200156,Candle Making Supplies,42,125.94,5289.48,2025-01-13
+200157,Miniature Painting Kits,6,10.7,64.2,2025-11-11
+200158,Woodworking Blanks,20,125.31,2506.2,2025-03-20
+200159,Model Railway Parts,4,170.01,680.04,2025-07-21
+200160,Analog Photography Gear,19,54.53,1036.07,2025-12-21
+200161,Miniature Painting Kits,2,131.89,263.78,2025-06-03
+200162,Ceramic Glazing Supplies,29,93.48,2710.92,2025-10-18
+200163,Ceramic Glazing Supplies,25,179.57,4489.25,2025-07-21
+200164,Candle Making Supplies,6,52.14,312.84,2025-04-29
+200165,Miniature Painting Kits,34,127.09,4321.06,2025-09-25
+200166,Botanical Art Tools,25,34.83,870.75,2025-06-24
+200167,Model Railway Parts,21,123.83,2600.43,2025-10-28
+200168,Handmade Calligraphy Sets,27,5.8,156.6,2025-10-29
+200169,Candle Making Supplies,16,89.99,1439.84,2025-07-25
+200170,Bookbinding Materials,38,175.65,6674.7,2025-07-16
+200171,Analog Photography Gear,26,126.35,3285.1,2025-04-11
+200172,Model Railway Parts,34,82.53,2806.02,2025-03-18
+200173,Miniature Painting Kits,43,87.14,3747.02,2025-06-17
+200174,Model Railway Parts,14,112.31,1572.34,2025-12-10
+200175,Woodworking Blanks,35,152.36,5332.6,2025-10-02
+200176,Ceramic Glazing Supplies,29,144.49,4190.21,2025-02-06
+200177,Woodworking Blanks,41,63.04,2584.64,2025-04-09
+200178,Handmade Calligraphy Sets,13,23.72,308.36,2025-04-26
+200179,Handmade Calligraphy Sets,45,149.15,6711.75,2025-04-11
+200180,Leathercraft Accessories,39,65.33,2547.87,2025-11-27
+200181,Botanical Art Tools,5,52.68,263.4,2025-02-18
+200182,Model Railway Parts,20,25.1,502.0,2025-03-17
+200183,Bookbinding Materials,45,30.92,1391.4,2025-10-27
+200184,Handmade Calligraphy Sets,35,166.1,5813.5,2025-02-21
+200185,Handmade Calligraphy Sets,18,85.07,1531.26,2025-02-28
+200186,Handmade Calligraphy Sets,27,113.04,3052.08,2025-12-04
+200187,Bookbinding Materials,36,105.9,3812.4,2025-02-25
+200188,Ceramic Glazing Supplies,25,30.99,774.75,2025-10-07
+200189,Analog Photography Gear,23,102.3,2352.9,2025-02-20
+200190,Botanical Art Tools,10,171.16,1711.6,2025-04-07
+200191,Botanical Art Tools,34,37.84,1286.56,2025-10-11
+200192,Analog Photography Gear,16,123.31,1972.96,2025-04-29
+200193,Analog Photography Gear,30,78.04,2341.2,2025-03-26
+200194,Woodworking Blanks,11,79.65,876.15,2025-03-23
+200195,Woodworking Blanks,3,130.75,392.25,2025-05-07
+200196,Woodworking Blanks,2,54.2,108.4,2025-11-12
+200197,Leathercraft Accessories,11,77.54,852.94,2025-12-21
+200198,Model Railway Parts,35,74.88,2620.8,2025-03-18
+200199,Model Railway Parts,42,75.07,3152.94,2025-06-12
+200200,Model Railway Parts,13,150.26,1953.38,2025-10-15
+200201,Miniature Painting Kits,2,165.4,330.8,2025-10-31
+200202,Botanical Art Tools,8,82.54,660.32,2025-07-01
+200203,Model Railway Parts,40,122.82,4912.8,2025-03-21
+200204,Miniature Painting Kits,32,117.06,3745.92,2025-08-06
+200205,Miniature Painting Kits,17,164.01,2788.17,2025-04-02
+200206,Woodworking Blanks,45,14.86,668.7,2025-04-06
+200207,Botanical Art Tools,27,6.5,175.5,2025-05-16
+200208,Candle Making Supplies,42,89.81,3772.02,2025-02-22
+200209,Model Railway Parts,3,26.23,78.69,2025-09-16
+200210,Woodworking Blanks,26,85.1,2212.6,2025-08-10
+200211,Analog Photography Gear,36,94.02,3384.72,2025-08-19
+200212,Handmade Calligraphy Sets,9,45.28,407.52,2025-02-03
+200213,Handmade Calligraphy Sets,21,97.47,2046.87,2025-06-03
+200214,Leathercraft Accessories,12,102.8,1233.6,2025-09-16
+200215,Miniature Painting Kits,17,125.94,2140.98,2025-06-06
+200216,Candle Making Supplies,22,35.67,784.74,2025-05-28
+200217,Model Railway Parts,28,146.35,4097.8,2025-06-06
+200218,Botanical Art Tools,15,75.75,1136.25,2025-01-30
+200219,Candle Making Supplies,13,174.01,2262.13,2025-02-17
+200220,Woodworking Blanks,29,137.32,3982.28,2025-05-29
+200221,Miniature Painting Kits,17,5.93,100.81,2025-09-06
+200222,Leathercraft Accessories,22,84.43,1857.46,2025-07-02
+200223,Handmade Calligraphy Sets,6,113.87,683.22,2025-09-28
+200224,Botanical Art Tools,37,100.11,3704.07,2025-05-29
+200225,Miniature Painting Kits,35,118.94,4162.9,2025-11-19
+200226,Analog Photography Gear,9,97.85,880.65,2025-02-19
+200227,Candle Making Supplies,8,57.22,457.76,2025-04-06
+200228,Ceramic Glazing Supplies,25,87.84,2196.0,2025-03-06
+200229,Candle Making Supplies,36,164.02,5904.72,2025-12-02
+200230,Handmade Calligraphy Sets,9,60.32,542.88,2025-04-29
+200231,Handmade Calligraphy Sets,18,5.74,103.32,2025-01-07
+200232,Botanical Art Tools,7,163.3,1143.1,2025-08-11
+200233,Botanical Art Tools,43,169.6,7292.8,2025-05-21
+200234,Woodworking Blanks,37,87.56,3239.72,2025-10-25
+200235,Analog Photography Gear,45,38.03,1711.35,2025-10-29
+200236,Leathercraft Accessories,44,74.27,3267.88,2025-06-08
+200237,Leathercraft Accessories,1,137.44,137.44,2025-05-09
+200238,Candle Making Supplies,44,159.15,7002.6,2025-05-04
+200239,Miniature Painting Kits,14,166.38,2329.32,2025-06-10
+200240,Botanical Art Tools,30,90.73,2721.9,2025-11-05
+200241,Bookbinding Materials,5,55.2,276.0,2025-07-20
+200242,Ceramic Glazing Supplies,12,58.04,696.48,2025-10-27
+200243,Model Railway Parts,34,108.88,3701.92,2025-03-23
+200244,Handmade Calligraphy Sets,14,136.49,1910.86,2025-01-13
+200245,Analog Photography Gear,44,66.86,2941.84,2025-12-23
+200246,Leathercraft Accessories,23,97.13,2233.99,2025-03-10
+200247,Leathercraft Accessories,45,170.03,7651.35,2025-03-05
+200248,Leathercraft Accessories,30,68.58,2057.4,2025-07-22
+200249,Handmade Calligraphy Sets,14,68.82,963.48,2025-08-09
+200250,Handmade Calligraphy Sets,25,176.09,4402.25,2025-12-06
+200251,Handmade Calligraphy Sets,3,107.15,321.45,2025-09-12
+200252,Miniature Painting Kits,34,131.75,4479.5,2025-08-10
+200253,Ceramic Glazing Supplies,25,138.48,3462.0,2025-04-29
+200254,Ceramic Glazing Supplies,33,172.14,5680.62,2025-07-13
+200255,Candle Making Supplies,45,41.04,1846.8,2025-04-08
+200256,Ceramic Glazing Supplies,26,28.08,730.08,2025-11-22
+200257,Bookbinding Materials,32,84.91,2717.12,2025-01-31
+200258,Miniature Painting Kits,3,175.78,527.34,2025-11-03
+200259,Analog Photography Gear,45,109.13,4910.85,2025-08-16
+200260,Handmade Calligraphy Sets,13,159.65,2075.45,2025-09-01
+200261,Ceramic Glazing Supplies,24,137.89,3309.36,2025-06-12
+200262,Woodworking Blanks,40,69.41,2776.4,2025-09-13
+200263,Miniature Painting Kits,10,118.95,1189.5,2025-04-26
+200264,Analog Photography Gear,2,165.56,331.12,2025-01-03
+200265,Leathercraft Accessories,1,115.7,115.7,2025-10-17
+200266,Botanical Art Tools,11,126.34,1389.74,2025-01-24
+200267,Botanical Art Tools,21,129.41,2717.61,2025-05-13
+200268,Model Railway Parts,28,104.78,2933.84,2025-02-13
+200269,Handmade Calligraphy Sets,9,27.13,244.17,2025-09-06
+200270,Miniature Painting Kits,42,127.26,5344.92,2025-04-29
+200271,Botanical Art Tools,20,161.84,3236.8,2025-12-03
+200272,Ceramic Glazing Supplies,18,107.4,1933.2,2025-09-08
+200273,Bookbinding Materials,16,22.98,367.68,2025-07-27
+200274,Miniature Painting Kits,1,137.12,137.12,2025-12-19
+200275,Model Railway Parts,43,61.1,2627.3,2025-10-07
+200276,Miniature Painting Kits,42,107.26,4504.92,2025-05-20
+200277,Model Railway Parts,15,130.34,1955.1,2025-03-18
+200278,Analog Photography Gear,19,32.63,619.97,2025-07-24
+200279,Leathercraft Accessories,31,37.17,1152.27,2025-07-15
+200280,Leathercraft Accessories,23,59.38,1365.74,2025-11-16
+200281,Leathercraft Accessories,2,109.89,219.78,2025-07-22
+200282,Miniature Painting Kits,10,147.93,1479.3,2025-11-23
+200283,Model Railway Parts,17,96.47,1639.99,2025-03-18
+200284,Analog Photography Gear,6,133.5,801.0,2025-08-09
+200285,Analog Photography Gear,1,150.12,150.12,2025-07-29
+200286,Ceramic Glazing Supplies,17,137.49,2337.33,2025-05-16
+200287,Handmade Calligraphy Sets,43,13.66,587.38,2025-01-21
+200288,Miniature Painting Kits,32,131.07,4194.24,2025-02-20
+200289,Woodworking Blanks,39,138.68,5408.52,2025-03-29
+200290,Woodworking Blanks,5,157.47,787.35,2025-03-13
+200291,Leathercraft Accessories,30,119.45,3583.5,2025-07-11
+200292,Analog Photography Gear,30,79.44,2383.2,2025-08-28
+200293,Botanical Art Tools,25,73.29,1832.25,2025-09-27
+200294,Woodworking Blanks,27,147.76,3989.52,2025-03-30
+200295,Bookbinding Materials,5,31.9,159.5,2025-10-09
+200296,Handmade Calligraphy Sets,16,139.32,2229.12,2025-12-31
+200297,Analog Photography Gear,28,177.59,4972.52,2025-01-03
+200298,Woodworking Blanks,28,109.74,3072.72,2025-12-05
+200299,Analog Photography Gear,24,58.11,1394.64,2025-05-14
+200300,Ceramic Glazing Supplies,40,27.24,1089.6,2025-11-03
+200301,Miniature Painting Kits,15,103.65,1554.75,2025-06-01
+200302,Ceramic Glazing Supplies,30,178.63,5358.9,2025-04-07
+200303,Miniature Painting Kits,11,89.53,984.83,2025-04-08
+200304,Botanical Art Tools,35,32.47,1136.45,2025-12-21
+200305,Botanical Art Tools,41,9.32,382.12,2025-04-16
+200306,Candle Making Supplies,13,42.89,557.57,2025-11-14
+200307,Leathercraft Accessories,24,145.03,3480.72,2025-09-21
+200308,Bookbinding Materials,17,113.45,1928.65,2025-11-19
+200309,Miniature Painting Kits,13,86.73,1127.49,2025-09-30
+200310,Model Railway Parts,3,9.09,27.27,2025-09-03
+200311,Leathercraft Accessories,17,48.26,820.42,2025-06-02
+200312,Bookbinding Materials,8,67.59,540.72,2025-09-14
+200313,Bookbinding Materials,7,80.28,561.96,2025-03-21
+200314,Candle Making Supplies,39,145.76,5684.64,2025-09-17
+200315,Analog Photography Gear,12,98.48,1181.76,2025-02-16
+200316,Handmade Calligraphy Sets,39,44.01,1716.39,2025-01-11
+200317,Bookbinding Materials,5,12.38,61.9,2025-03-13
+200318,Leathercraft Accessories,7,126.44,885.08,2025-01-20
+200319,Candle Making Supplies,38,8.38,318.44,2025-11-18
+200320,Ceramic Glazing Supplies,17,91.85,1561.45,2025-05-15
+200321,Candle Making Supplies,31,41.01,1271.31,2025-10-22
+200322,Analog Photography Gear,43,150.15,6456.45,2025-10-31
+200323,Leathercraft Accessories,42,167.28,7025.76,2025-07-12
+200324,Handmade Calligraphy Sets,35,17.89,626.15,2025-05-06
+200325,Botanical Art Tools,32,33.64,1076.48,2025-11-10
+200326,Leathercraft Accessories,40,28.63,1145.2,2025-11-21
+200327,Botanical Art Tools,45,155.44,6994.8,2025-07-08
+200328,Miniature Painting Kits,5,54.18,270.9,2025-09-30
+200329,Bookbinding Materials,37,63.53,2350.61,2025-04-14
+200330,Model Railway Parts,42,116.49,4892.58,2025-12-19
+200331,Ceramic Glazing Supplies,25,49.72,1243.0,2025-01-29
+200332,Handmade Calligraphy Sets,17,107.94,1834.98,2025-06-30
+200333,Woodworking Blanks,38,111.67,4243.46,2025-02-16
+200334,Leathercraft Accessories,29,135.5,3929.5,2025-06-03
+200335,Woodworking Blanks,30,108.68,3260.4,2025-07-07
+200336,Handmade Calligraphy Sets,8,175.33,1402.64,2025-03-11
+200337,Model Railway Parts,22,11.24,247.28,2025-05-21
+200338,Botanical Art Tools,35,11.37,397.95,2025-08-06
+200339,Analog Photography Gear,26,28.15,731.9,2025-12-11
+200340,Leathercraft Accessories,2,57.72,115.44,2025-07-29
+200341,Model Railway Parts,13,22.43,291.59,2025-01-23
+200342,Ceramic Glazing Supplies,39,45.42,1771.38,2025-01-18
+200343,Miniature Painting Kits,5,135.38,676.9,2025-02-04
+200344,Botanical Art Tools,7,66.65,466.55,2025-04-29
+200345,Ceramic Glazing Supplies,5,60.36,301.8,2025-12-14
+200346,Analog Photography Gear,44,10.74,472.56,2025-01-19
+200347,Candle Making Supplies,20,155.86,3117.2,2025-02-23
+200348,Candle Making Supplies,4,13.58,54.32,2025-04-05
+200349,Miniature Painting Kits,19,97.88,1859.72,2025-03-22
+200350,Leathercraft Accessories,28,22.59,632.52,2025-04-26
+200351,Bookbinding Materials,10,93.93,939.3,2025-06-06
+200352,Botanical Art Tools,5,75.43,377.15,2025-04-29
+200353,Botanical Art Tools,10,139.56,1395.6,2025-04-20
+200354,Ceramic Glazing Supplies,5,47.66,238.3,2025-03-15
+200355,Leathercraft Accessories,27,126.96,3427.92,2025-04-30
+200356,Model Railway Parts,13,22.16,288.08,2025-10-09
+200357,Miniature Painting Kits,28,125.54,3515.12,2025-03-10
+200358,Leathercraft Accessories,5,113.73,568.65,2025-04-07
+200359,Candle Making Supplies,25,96.08,2402.0,2025-08-12
+200360,Woodworking Blanks,35,40.65,1422.75,2025-12-13
+200361,Candle Making Supplies,37,163.49,6049.13,2025-09-16
+200362,Woodworking Blanks,24,60.41,1449.84,2025-10-19
+200363,Handmade Calligraphy Sets,14,153.37,2147.18,2025-10-25
+200364,Ceramic Glazing Supplies,26,124.25,3230.5,2025-02-10
+200365,Woodworking Blanks,23,138.25,3179.75,2025-06-12
+200366,Botanical Art Tools,40,100.94,4037.6,2025-03-08
+200367,Analog Photography Gear,24,34.56,829.44,2025-12-01
+200368,Bookbinding Materials,43,21.44,921.92,2025-09-14
+200369,Bookbinding Materials,2,166.84,333.68,2025-11-16
+200370,Handmade Calligraphy Sets,7,164.5,1151.5,2025-05-01
+200371,Botanical Art Tools,32,40.5,1296.0,2025-07-04
+200372,Miniature Painting Kits,36,168.01,6048.36,2025-06-18
+200373,Woodworking Blanks,45,87.86,3953.7,2025-06-14
+200374,Ceramic Glazing Supplies,44,8.75,385.0,2025-09-25
+200375,Miniature Painting Kits,44,46.1,2028.4,2025-02-16
+200376,Botanical Art Tools,45,135.05,6077.25,2025-02-12
+200377,Ceramic Glazing Supplies,37,118.86,4397.82,2025-05-13
+200378,Candle Making Supplies,9,161.04,1449.36,2025-08-02
+200379,Botanical Art Tools,26,120.9,3143.4,2025-12-23
+200380,Ceramic Glazing Supplies,40,20.49,819.6,2025-09-16
+200381,Woodworking Blanks,36,166.99,6011.64,2025-12-10
+200382,Handmade Calligraphy Sets,2,10.91,21.82,2025-02-04
+200383,Leathercraft Accessories,9,149.32,1343.88,2025-11-17
+200384,Woodworking Blanks,28,25.62,717.36,2025-09-15
+200385,Ceramic Glazing Supplies,30,61.4,1842.0,2025-01-14
+200386,Analog Photography Gear,12,119.19,1430.28,2025-05-07
+200387,Candle Making Supplies,27,48.86,1319.22,2025-04-26
+200388,Ceramic Glazing Supplies,27,146.12,3945.24,2025-12-23
+200389,Botanical Art Tools,35,8.34,291.9,2025-12-02
+200390,Miniature Painting Kits,36,28.51,1026.36,2025-06-05
+200391,Candle Making Supplies,32,104.55,3345.6,2025-04-01
+200392,Woodworking Blanks,35,25.16,880.6,2025-01-06
+200393,Analog Photography Gear,36,67.54,2431.44,2025-01-21
+200394,Woodworking Blanks,45,35.62,1602.9,2025-03-28
+200395,Woodworking Blanks,6,95.12,570.72,2025-02-23
+200396,Woodworking Blanks,35,155.64,5447.4,2025-11-22
+200397,Leathercraft Accessories,21,176.61,3708.81,2025-03-20
+200398,Ceramic Glazing Supplies,9,26.61,239.49,2025-08-25
+200399,Woodworking Blanks,28,37.63,1053.64,2025-05-25
+200400,Analog Photography Gear,16,84.99,1359.84,2025-02-26
+200401,Candle Making Supplies,6,132.05,792.3,2025-09-17
+200402,Analog Photography Gear,44,76.33,3358.52,2025-07-30
+200403,Analog Photography Gear,8,81.98,655.84,2025-09-04
+200404,Leathercraft Accessories,45,8.44,379.8,2025-10-10
+200405,Leathercraft Accessories,35,31.84,1114.4,2025-07-14
+200406,Woodworking Blanks,17,7.65,130.05,2025-06-29
+200407,Bookbinding Materials,1,31.82,31.82,2025-11-14
+200408,Bookbinding Materials,15,100.88,1513.2,2025-04-02
+200409,Model Railway Parts,9,179.27,1613.43,2025-02-01
+200410,Model Railway Parts,5,167.85,839.25,2025-04-06
+200411,Candle Making Supplies,36,84.26,3033.36,2025-09-21
+200412,Analog Photography Gear,7,5.0,35.0,2025-08-24
+200413,Leathercraft Accessories,26,51.96,1350.96,2025-07-01
+200414,Miniature Painting Kits,16,79.54,1272.64,2025-07-20
+200415,Handmade Calligraphy Sets,32,59.76,1912.32,2025-10-10
+200416,Ceramic Glazing Supplies,34,119.94,4077.96,2025-01-18
+200417,Handmade Calligraphy Sets,38,29.97,1138.86,2025-07-03
+200418,Ceramic Glazing Supplies,44,168.66,7421.04,2025-08-10
+200419,Leathercraft Accessories,30,68.21,2046.3,2025-04-26
+200420,Bookbinding Materials,38,15.79,600.02,2025-01-22
+200421,Handmade Calligraphy Sets,27,153.51,4144.77,2025-09-24
+200422,Woodworking Blanks,12,161.28,1935.36,2025-04-03
+200423,Candle Making Supplies,42,65.11,2734.62,2025-10-03
+200424,Candle Making Supplies,43,49.01,2107.43,2025-06-14
+200425,Bookbinding Materials,6,45.3,271.8,2025-07-19
+200426,Woodworking Blanks,29,49.84,1445.36,2025-05-01
+200427,Botanical Art Tools,2,90.17,180.34,2025-01-03
+200428,Handmade Calligraphy Sets,27,49.05,1324.35,2025-05-16
+200429,Analog Photography Gear,33,68.04,2245.32,2025-01-07
+200430,Analog Photography Gear,31,54.99,1704.69,2025-03-18
+200431,Ceramic Glazing Supplies,30,128.96,3868.8,2025-07-20
+200432,Model Railway Parts,4,20.34,81.36,2025-01-21
+200433,Handmade Calligraphy Sets,15,122.11,1831.65,2025-12-28
+200434,Analog Photography Gear,5,47.68,238.4,2025-04-21
+200435,Ceramic Glazing Supplies,39,115.16,4491.24,2025-12-01
+200436,Analog Photography Gear,44,167.88,7386.72,2025-10-20
+200437,Model Railway Parts,40,74.96,2998.4,2025-08-16
+200438,Candle Making Supplies,14,73.58,1030.12,2025-09-02
+200439,Bookbinding Materials,19,176.2,3347.8,2025-07-21
+200440,Analog Photography Gear,23,117.46,2701.58,2025-09-03
+200441,Leathercraft Accessories,6,39.23,235.38,2025-05-27
+200442,Handmade Calligraphy Sets,43,80.79,3473.97,2025-12-29
+200443,Analog Photography Gear,20,89.52,1790.4,2025-11-18
+200444,Ceramic Glazing Supplies,19,113.08,2148.52,2025-03-16
+200445,Woodworking Blanks,14,41.08,575.12,2025-04-09
+200446,Ceramic Glazing Supplies,42,143.48,6026.16,2025-08-07
+200447,Bookbinding Materials,30,120.82,3624.6,2025-04-12
+200448,Leathercraft Accessories,20,161.87,3237.4,2025-05-29
+200449,Ceramic Glazing Supplies,26,32.48,844.48,2025-06-12
+200450,Botanical Art Tools,11,29.42,323.62,2025-08-27
+200451,Botanical Art Tools,28,172.74,4836.72,2025-11-21
+200452,Miniature Painting Kits,44,135.28,5952.32,2025-06-27
+200453,Woodworking Blanks,13,60.27,783.51,2025-10-06
+200454,Handmade Calligraphy Sets,25,37.43,935.75,2025-05-18
+200455,Candle Making Supplies,10,30.12,301.2,2025-01-07
+200456,Ceramic Glazing Supplies,4,44.33,177.32,2025-06-07
+200457,Analog Photography Gear,34,159.52,5423.68,2025-07-14
+200458,Analog Photography Gear,7,89.05,623.35,2025-04-26
+200459,Candle Making Supplies,29,163.84,4751.36,2025-01-26
+200460,Analog Photography Gear,30,32.25,967.5,2025-04-25
+200461,Handmade Calligraphy Sets,6,115.76,694.56,2025-09-23
+200462,Woodworking Blanks,18,151.44,2725.92,2025-06-10
+200463,Handmade Calligraphy Sets,31,115.55,3582.05,2025-04-12
+200464,Woodworking Blanks,42,78.81,3310.02,2025-01-20
+200465,Botanical Art Tools,2,176.3,352.6,2025-01-11
+200466,Botanical Art Tools,8,7.84,62.72,2025-05-12
+200467,Botanical Art Tools,42,178.95,7515.9,2025-11-21
+200468,Woodworking Blanks,34,6.59,224.06,2025-01-24
+200469,Model Railway Parts,24,8.64,207.36,2025-08-25
+200470,Candle Making Supplies,10,127.98,1279.8,2025-10-07
+200471,Leathercraft Accessories,1,77.87,77.87,2025-06-04
+200472,Botanical Art Tools,11,23.61,259.71,2025-06-05
+200473,Bookbinding Materials,10,98.65,986.5,2025-05-03
+200474,Ceramic Glazing Supplies,26,31.04,807.04,2025-03-23
+200475,Bookbinding Materials,12,152.16,1825.92,2025-06-13
+200476,Botanical Art Tools,33,141.89,4682.37,2025-04-09
+200477,Miniature Painting Kits,21,61.65,1294.65,2025-06-29
+200478,Woodworking Blanks,39,141.16,5505.24,2025-06-09
+200479,Bookbinding Materials,41,73.97,3032.77,2025-01-31
+200480,Leathercraft Accessories,6,88.05,528.3,2025-02-19
+200481,Handmade Calligraphy Sets,40,147.71,5908.4,2025-01-23
+200482,Bookbinding Materials,27,5.35,144.45,2025-05-03
+200483,Ceramic Glazing Supplies,26,55.35,1439.1,2025-09-21
+200484,Miniature Painting Kits,33,83.08,2741.64,2025-09-15
+200485,Handmade Calligraphy Sets,1,34.71,34.71,2025-09-13
+200486,Model Railway Parts,43,166.95,7178.85,2025-09-04
+200487,Botanical Art Tools,22,110.96,2441.12,2025-01-20
+200488,Woodworking Blanks,9,29.26,263.34,2025-02-18
+200489,Botanical Art Tools,11,74.23,816.53,2025-02-02
+200490,Ceramic Glazing Supplies,28,173.55,4859.4,2025-08-10
+200491,Model Railway Parts,28,42.02,1176.56,2025-06-19
+200492,Bookbinding Materials,26,176.81,4597.06,2025-02-02
+200493,Woodworking Blanks,32,134.58,4306.56,2025-06-15
+200494,Ceramic Glazing Supplies,26,116.41,3026.66,2025-10-29
+200495,Bookbinding Materials,21,98.27,2063.67,2025-03-16
+200496,Botanical Art Tools,42,138.65,5823.3,2025-03-25
+200497,Model Railway Parts,21,146.14,3068.94,2025-04-24
+200498,Analog Photography Gear,16,141.71,2267.36,2025-07-18
+200499,Miniature Painting Kits,29,123.79,3589.91,2025-09-22
+200500,Model Railway Parts,22,105.13,2312.86,2025-12-02
+200501,Analog Photography Gear,22,151.45,3331.9,2025-06-25
+200502,Miniature Painting Kits,42,81.94,3441.48,2025-04-02
+200503,Woodworking Blanks,11,68.53,753.83,2025-01-06
+200504,Bookbinding Materials,34,150.12,5104.08,2025-04-10
+200505,Model Railway Parts,31,54.09,1676.79,2025-03-19
+200506,Candle Making Supplies,15,98.87,1483.05,2025-12-14
+200507,Ceramic Glazing Supplies,8,116.62,932.96,2025-11-22
+200508,Bookbinding Materials,15,46.41,696.15,2025-01-08
+200509,Miniature Painting Kits,17,118.72,2018.24,2025-07-06
+200510,Botanical Art Tools,31,167.75,5200.25,2025-08-07
+200511,Miniature Painting Kits,17,51.06,868.02,2025-08-21
+200512,Bookbinding Materials,6,177.81,1066.86,2025-12-21
+200513,Miniature Painting Kits,32,93.25,2984.0,2025-08-18
+200514,Ceramic Glazing Supplies,20,176.47,3529.4,2025-12-24
+200515,Model Railway Parts,22,33.74,742.28,2025-03-30
+200516,Woodworking Blanks,40,47.45,1898.0,2025-12-05
+200517,Woodworking Blanks,31,17.71,549.01,2025-06-30
+200518,Model Railway Parts,35,104.19,3646.65,2025-06-29
+200519,Candle Making Supplies,22,136.8,3009.6,2025-02-06
+200520,Candle Making Supplies,1,146.29,146.29,2025-03-03
+200521,Woodworking Blanks,16,35.92,574.72,2025-12-13
+200522,Botanical Art Tools,20,71.97,1439.4,2025-09-07
+200523,Woodworking Blanks,36,25.41,914.76,2025-07-22
+200524,Ceramic Glazing Supplies,7,14.1,98.7,2025-10-23
+200525,Miniature Painting Kits,13,137.42,1786.46,2025-03-31
+200526,Ceramic Glazing Supplies,32,65.34,2090.88,2025-10-20
+200527,Candle Making Supplies,28,90.82,2542.96,2025-10-30
+200528,Leathercraft Accessories,15,87.28,1309.2,2025-08-17
+200529,Woodworking Blanks,32,134.77,4312.64,2025-06-18
+200530,Woodworking Blanks,3,179.72,539.16,2025-01-04
+200531,Bookbinding Materials,15,117.97,1769.55,2025-07-30
+200532,Leathercraft Accessories,40,127.25,5090.0,2025-01-03
+200533,Ceramic Glazing Supplies,21,64.73,1359.33,2025-12-22
+200534,Model Railway Parts,21,59.94,1258.74,2025-04-02
+200535,Botanical Art Tools,44,54.33,2390.52,2025-06-15
+200536,Model Railway Parts,33,12.42,409.86,2025-05-16
+200537,Bookbinding Materials,44,52.4,2305.6,2025-08-09
+200538,Model Railway Parts,32,36.56,1169.92,2025-07-02
+200539,Miniature Painting Kits,44,102.06,4490.64,2025-12-28
+200540,Analog Photography Gear,21,146.79,3082.59,2025-08-02
+200541,Woodworking Blanks,38,160.77,6109.26,2025-05-07
+200542,Leathercraft Accessories,21,31.17,654.57,2025-06-25
+200543,Model Railway Parts,14,19.87,278.18,2025-09-12
+200544,Analog Photography Gear,40,140.88,5635.2,2025-06-03
+200545,Woodworking Blanks,3,144.72,434.16,2025-11-11
+200546,Miniature Painting Kits,11,123.6,1359.6,2025-08-10
+200547,Analog Photography Gear,7,101.11,707.77,2025-08-18
+200548,Handmade Calligraphy Sets,12,137.21,1646.52,2025-06-21
+200549,Woodworking Blanks,33,110.78,3655.74,2025-05-31
+200550,Miniature Painting Kits,27,152.49,4117.23,2025-03-26
+200551,Botanical Art Tools,8,72.99,583.92,2025-04-24
+200552,Handmade Calligraphy Sets,16,78.33,1253.28,2025-04-23
+200553,Botanical Art Tools,27,148.02,3996.54,2025-08-19
+200554,Bookbinding Materials,24,114.73,2753.52,2025-10-29
+200555,Ceramic Glazing Supplies,23,144.57,3325.11,2025-08-15
+200556,Bookbinding Materials,37,65.74,2432.38,2025-05-17
+200557,Handmade Calligraphy Sets,29,130.27,3777.83,2025-11-04
+200558,Handmade Calligraphy Sets,30,150.86,4525.8,2025-05-04
+200559,Woodworking Blanks,24,32.15,771.6,2025-06-15
+200560,Woodworking Blanks,17,112.86,1918.62,2025-01-21
+200561,Model Railway Parts,15,18.74,281.1,2025-11-08
+200562,Woodworking Blanks,9,54.38,489.42,2025-03-29
+200563,Analog Photography Gear,39,6.05,235.95,2025-09-24
+200564,Model Railway Parts,2,31.15,62.3,2025-09-09
+200565,Bookbinding Materials,4,108.15,432.6,2025-04-01
+200566,Botanical Art Tools,44,22.33,982.52,2025-07-24
+200567,Model Railway Parts,31,18.33,568.23,2025-09-18
+200568,Handmade Calligraphy Sets,5,67.38,336.9,2025-11-20
+200569,Model Railway Parts,27,65.8,1776.6,2025-10-21
+200570,Woodworking Blanks,8,162.61,1300.88,2025-05-30
+200571,Botanical Art Tools,3,164.91,494.73,2025-02-19
+200572,Bookbinding Materials,15,7.9,118.5,2025-04-14
+200573,Bookbinding Materials,20,36.47,729.4,2025-04-17
+200574,Ceramic Glazing Supplies,45,156.35,7035.75,2025-08-22
+200575,Leathercraft Accessories,6,45.68,274.08,2025-11-18
+200576,Analog Photography Gear,36,78.9,2840.4,2025-02-12
+200577,Bookbinding Materials,23,152.85,3515.55,2025-05-15
+200578,Leathercraft Accessories,29,125.66,3644.14,2025-11-30
+200579,Bookbinding Materials,22,169.75,3734.5,2025-02-28
+200580,Ceramic Glazing Supplies,35,15.0,525.0,2025-06-27
+200581,Ceramic Glazing Supplies,36,55.03,1981.08,2025-12-22
+200582,Woodworking Blanks,20,113.05,2261.0,2025-11-13
+200583,Leathercraft Accessories,10,120.06,1200.6,2025-10-24
+200584,Bookbinding Materials,43,53.67,2307.81,2025-11-12
+200585,Handmade Calligraphy Sets,35,52.03,1821.05,2025-03-03
+200586,Bookbinding Materials,45,133.32,5999.4,2025-10-01
+200587,Candle Making Supplies,39,176.22,6872.58,2025-05-14
+200588,Model Railway Parts,29,16.83,488.07,2025-09-05
+200589,Leathercraft Accessories,4,21.71,86.84,2025-05-30
+200590,Model Railway Parts,26,152.31,3960.06,2025-06-03
+200591,Botanical Art Tools,35,118.45,4145.75,2025-10-22
+200592,Candle Making Supplies,24,34.3,823.2,2025-06-06
+200593,Leathercraft Accessories,36,34.4,1238.4,2025-01-21
+200594,Analog Photography Gear,21,12.63,265.23,2025-10-24
+200595,Woodworking Blanks,8,17.93,143.44,2025-02-01
+200596,Leathercraft Accessories,9,24.02,216.18,2025-08-22
+200597,Ceramic Glazing Supplies,14,88.05,1232.7,2025-06-05
+200598,Handmade Calligraphy Sets,16,24.2,387.2,2025-11-01
+200599,Ceramic Glazing Supplies,38,68.96,2620.48,2025-08-29
+200600,Handmade Calligraphy Sets,4,158.85,635.4,2025-04-07
+200601,Woodworking Blanks,6,14.53,87.18,2025-03-27
+200602,Botanical Art Tools,1,117.32,117.32,2025-06-24
+200603,Model Railway Parts,31,45.46,1409.26,2025-08-06
+200604,Miniature Painting Kits,45,15.14,681.3,2025-05-07
+200605,Woodworking Blanks,15,101.15,1517.25,2025-04-28
+200606,Leathercraft Accessories,9,162.48,1462.32,2025-05-25
+200607,Analog Photography Gear,9,69.78,628.02,2025-12-12
+200608,Leathercraft Accessories,7,175.0,1225.0,2025-02-05
+200609,Leathercraft Accessories,28,147.62,4133.36,2025-08-19
+200610,Woodworking Blanks,14,38.98,545.72,2025-08-28
+200611,Analog Photography Gear,28,64.3,1800.4,2025-10-14
+200612,Candle Making Supplies,5,41.28,206.4,2025-06-26
+200613,Leathercraft Accessories,33,85.77,2830.41,2025-05-04
+200614,Botanical Art Tools,34,174.63,5937.42,2025-12-18
+200615,Miniature Painting Kits,18,110.4,1987.2,2025-09-05
+200616,Botanical Art Tools,41,34.99,1434.59,2025-06-11
+200617,Analog Photography Gear,27,138.47,3738.69,2025-05-17
+200618,Ceramic Glazing Supplies,3,144.59,433.77,2025-10-09
+200619,Leathercraft Accessories,25,157.4,3935.0,2025-05-27
+200620,Woodworking Blanks,33,100.19,3306.27,2025-08-28
+200621,Model Railway Parts,19,113.09,2148.71,2025-02-14
+200622,Analog Photography Gear,30,23.31,699.3,2025-06-08
+200623,Bookbinding Materials,44,48.91,2152.04,2025-08-16
+200624,Woodworking Blanks,27,37.36,1008.72,2025-04-18
+200625,Bookbinding Materials,19,90.3,1715.7,2025-12-20
+200626,Analog Photography Gear,7,111.84,782.88,2025-02-25
+200627,Bookbinding Materials,19,43.52,826.88,2025-08-02
+200628,Botanical Art Tools,31,107.71,3339.01,2025-10-02
+200629,Analog Photography Gear,6,128.83,772.98,2025-03-22
+200630,Miniature Painting Kits,33,92.13,3040.29,2025-11-27
+200631,Woodworking Blanks,14,19.67,275.38,2025-02-26
+200632,Ceramic Glazing Supplies,15,67.82,1017.3,2025-10-08
+200633,Woodworking Blanks,11,166.23,1828.53,2025-12-02
+200634,Leathercraft Accessories,37,70.89,2622.93,2025-07-16
+200635,Analog Photography Gear,3,77.6,232.8,2025-01-03
+200636,Handmade Calligraphy Sets,38,60.13,2284.94,2025-01-07
+200637,Botanical Art Tools,37,161.29,5967.73,2025-06-08
+200638,Botanical Art Tools,37,33.17,1227.29,2025-03-28
+200639,Analog Photography Gear,9,87.36,786.24,2025-04-05
+200640,Leathercraft Accessories,39,61.67,2405.13,2025-08-26
+200641,Candle Making Supplies,6,45.02,270.12,2025-10-04
+200642,Candle Making Supplies,4,86.48,345.92,2025-02-04
+200643,Candle Making Supplies,16,149.29,2388.64,2025-11-28
+200644,Model Railway Parts,33,30.55,1008.15,2025-01-17
+200645,Miniature Painting Kits,38,73.35,2787.3,2025-11-07
+200646,Bookbinding Materials,5,52.25,261.25,2025-04-10
+200647,Model Railway Parts,22,37.62,827.64,2025-08-30
+200648,Miniature Painting Kits,27,108.13,2919.51,2025-09-09
+200649,Ceramic Glazing Supplies,12,132.5,1590.0,2025-11-06
+200650,Ceramic Glazing Supplies,6,102.79,616.74,2025-11-02
+200651,Model Railway Parts,41,94.75,3884.75,2025-09-30
+200652,Model Railway Parts,20,97.54,1950.8,2025-07-06
+200653,Leathercraft Accessories,3,176.73,530.19,2025-12-06
+200654,Analog Photography Gear,30,164.79,4943.7,2025-04-21
+200655,Miniature Painting Kits,44,165.84,7296.96,2025-09-16
+200656,Botanical Art Tools,24,139.58,3349.92,2025-05-06
+200657,Miniature Painting Kits,45,19.02,855.9,2025-11-02
+200658,Handmade Calligraphy Sets,38,94.86,3604.68,2025-05-31
+200659,Model Railway Parts,41,108.42,4445.22,2025-11-16
+200660,Bookbinding Materials,36,12.56,452.16,2025-10-26
+200661,Bookbinding Materials,38,98.45,3741.1,2025-06-25
+200662,Analog Photography Gear,23,26.0,598.0,2025-07-06
+200663,Woodworking Blanks,40,174.41,6976.4,2025-01-05
+200664,Woodworking Blanks,44,6.83,300.52,2025-03-27
+200665,Ceramic Glazing Supplies,4,92.72,370.88,2025-11-04
+200666,Candle Making Supplies,45,31.86,1433.7,2025-04-23
+200667,Analog Photography Gear,12,80.76,969.12,2025-01-24
+200668,Model Railway Parts,3,162.86,488.58,2025-06-28
+200669,Ceramic Glazing Supplies,15,93.0,1395.0,2025-09-30
+200670,Model Railway Parts,45,73.83,3322.35,2025-01-21
+200671,Botanical Art Tools,40,65.26,2610.4,2025-07-31
+200672,Analog Photography Gear,29,152.84,4432.36,2025-09-05
+200673,Botanical Art Tools,43,80.22,3449.46,2025-03-23
+200674,Candle Making Supplies,14,14.89,208.46,2025-12-05
+200675,Model Railway Parts,7,124.17,869.19,2025-12-12
+200676,Bookbinding Materials,27,123.56,3336.12,2025-10-15
+200677,Bookbinding Materials,38,172.56,6557.28,2025-09-13
+200678,Miniature Painting Kits,19,107.85,2049.15,2025-09-10
+200679,Model Railway Parts,17,51.09,868.53,2025-07-08
+200680,Model Railway Parts,17,54.76,930.92,2025-06-29
+200681,Handmade Calligraphy Sets,22,179.27,3943.94,2025-11-17
+200682,Handmade Calligraphy Sets,30,48.72,1461.6,2025-07-25
+200683,Handmade Calligraphy Sets,33,28.02,924.66,2025-03-30
+200684,Bookbinding Materials,15,86.05,1290.75,2025-08-30
+200685,Bookbinding Materials,20,179.84,3596.8,2025-02-19
+200686,Leathercraft Accessories,12,104.9,1258.8,2025-09-14
+200687,Model Railway Parts,43,143.73,6180.39,2025-05-09
+200688,Leathercraft Accessories,31,112.76,3495.56,2025-04-04
+200689,Woodworking Blanks,11,152.03,1672.33,2025-12-06
+200690,Model Railway Parts,5,40.12,200.6,2025-06-25
+200691,Model Railway Parts,42,81.4,3418.8,2025-01-23
+200692,Bookbinding Materials,39,129.82,5062.98,2025-12-27
+200693,Handmade Calligraphy Sets,31,77.22,2393.82,2025-10-12
+200694,Botanical Art Tools,2,105.55,211.1,2025-04-04
+200695,Model Railway Parts,2,93.0,186.0,2025-06-06
+200696,Analog Photography Gear,26,30.11,782.86,2025-12-23
+200697,Bookbinding Materials,34,63.97,2174.98,2025-01-06
+200698,Ceramic Glazing Supplies,12,60.76,729.12,2025-08-14
+200699,Analog Photography Gear,38,29.21,1109.98,2025-07-07
+200700,Ceramic Glazing Supplies,4,9.74,38.96,2025-08-25
+200701,Analog Photography Gear,18,46.06,829.08,2025-02-11
+200702,Handmade Calligraphy Sets,45,162.44,7309.8,2025-01-26
+200703,Bookbinding Materials,3,109.38,328.14,2025-07-15
+200704,Candle Making Supplies,24,166.59,3998.16,2025-10-30
+200705,Handmade Calligraphy Sets,10,176.13,1761.3,2025-10-06
+200706,Bookbinding Materials,6,12.2,73.2,2025-01-07
+200707,Woodworking Blanks,25,18.88,472.0,2025-09-21
+200708,Leathercraft Accessories,7,144.59,1012.13,2025-06-22
+200709,Miniature Painting Kits,11,159.06,1749.66,2025-03-02
+200710,Analog Photography Gear,5,35.97,179.85,2025-10-23
+200711,Woodworking Blanks,22,28.16,619.52,2025-05-30
+200712,Woodworking Blanks,1,167.62,167.62,2025-02-20
+200713,Woodworking Blanks,43,16.58,712.94,2025-12-20
+200714,Handmade Calligraphy Sets,22,43.62,959.64,2025-04-22
+200715,Handmade Calligraphy Sets,24,139.28,3342.72,2025-09-23
+200716,Handmade Calligraphy Sets,20,129.72,2594.4,2025-11-25
+200717,Woodworking Blanks,7,70.12,490.84,2025-03-29
+200718,Handmade Calligraphy Sets,5,169.85,849.25,2025-08-11
+200719,Bookbinding Materials,3,145.37,436.11,2025-11-11
+200720,Bookbinding Materials,31,99.22,3075.82,2025-11-16
+200721,Model Railway Parts,6,79.41,476.46,2025-02-01
+200722,Candle Making Supplies,12,118.97,1427.64,2025-04-21
+200723,Analog Photography Gear,26,118.85,3090.1,2025-09-12
+200724,Ceramic Glazing Supplies,21,103.21,2167.41,2025-02-01
+200725,Miniature Painting Kits,36,88.08,3170.88,2025-04-16
+200726,Leathercraft Accessories,37,127.12,4703.44,2025-05-26
+200727,Bookbinding Materials,13,115.54,1502.02,2025-08-28
+200728,Bookbinding Materials,4,141.43,565.72,2025-10-28
+200729,Ceramic Glazing Supplies,21,119.86,2517.06,2025-07-19
+200730,Model Railway Parts,35,15.58,545.3,2025-10-19
+200731,Botanical Art Tools,22,93.3,2052.6,2025-04-01
+200732,Ceramic Glazing Supplies,43,29.54,1270.22,2025-04-27
+200733,Analog Photography Gear,45,79.75,3588.75,2025-08-28
+200734,Bookbinding Materials,43,17.71,761.53,2025-05-31
+200735,Candle Making Supplies,38,142.9,5430.2,2025-07-28
+200736,Miniature Painting Kits,35,78.87,2760.45,2025-06-17
+200737,Miniature Painting Kits,20,29.36,587.2,2025-07-08
+200738,Botanical Art Tools,24,65.24,1565.76,2025-12-30
+200739,Candle Making Supplies,38,100.14,3805.32,2025-06-04
+200740,Candle Making Supplies,25,173.31,4332.75,2025-11-29
+200741,Leathercraft Accessories,41,139.4,5715.4,2025-12-21
+200742,Leathercraft Accessories,14,46.03,644.42,2025-12-20
+200743,Handmade Calligraphy Sets,30,86.47,2594.1,2025-03-14
+200744,Ceramic Glazing Supplies,27,119.72,3232.44,2025-12-29
+200745,Ceramic Glazing Supplies,45,19.66,884.7,2025-08-13
+200746,Ceramic Glazing Supplies,45,80.77,3634.65,2025-03-19
+200747,Botanical Art Tools,1,136.48,136.48,2025-04-06
+200748,Bookbinding Materials,15,131.66,1974.9,2025-06-28
+200749,Botanical Art Tools,8,6.57,52.56,2025-06-05
+200750,Model Railway Parts,33,119.25,3935.25,2025-04-15
